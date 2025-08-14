@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aloksahu125
 - 👀 I’m interested in progrmming
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning HTML/CSS, p5.js
 - 📫 E-mail: alokdahu125@gmail.com
 
 
